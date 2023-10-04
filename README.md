@@ -34,3 +34,10 @@ To run the project locally, follow these steps:
    ```bash
    streamlit run ui.py
 That's it! You're ready to explore 'The HairGuardian' project and empower users to make safer choices for their hair care needs.
+
+## Screenshots
+![User Interface](screenshot/home.png)
+![User Interface](screenshot/UploadImage.png)
+![User Interface](screenshotchatbot.png)
+![User Interface](screenshot/contact- Copie.png)
+
