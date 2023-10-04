@@ -40,5 +40,5 @@ That's it! You're ready to explore 'The HairGuardian' project and empower users 
 ![User Interface](screenshot/UploadImage.png)
 ![User Interface](screenshot/result.png)
 ![User Interface](screenshot/chatbot.png)
-![User Interface](screenshot/contact - Copie.png)
+![User Interface](screenshot/contact.png)
 
